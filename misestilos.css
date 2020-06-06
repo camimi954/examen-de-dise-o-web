@@ -1,0 +1,31 @@
+h1 {
+  color: #006600;
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+  font-family: "Arial", "Helvetica", "sans-serif", "Batang";
+  color: #000099;
+}
+
+li {
+  font-family: "Arial", "Helvetica", "sans-serif";
+  color: #006600;
+}
+
+.especial {
+  color: #cc0000;
+  background-color: #ffff66;
+  text-decoration: underline overline;
+}
+
+.imagendcha {
+  float: right;
+  margin-left: 10px;
+}
+
+.centrado {
+  text-align: center;
+}
+
